@@ -6,7 +6,7 @@
 <li><a href="https://neyaraujo.github.io/projeto-cordel/" target="_blank">Projeto 02 - Cordel</a></li>
 <li><a href="https://neyaraujo.github.io/projeto-social/" target="_blank">Projeto 03 - Rede Social</a></li>
 <li><a href="https://neyaraujo.github.io/eduford/" target="_blank">Projeto 04 - Eduford</a></li>
-
+<li><a href="https://neyaraujo.github.io/projetos/curriculo-online/" target="_blank">Projeto 05 - Curriculo Online</a></li>
 
 </ul>
 <h2>Programas de Repositório</h2>
