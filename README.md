@@ -8,6 +8,7 @@
 <li><a href="https://neyaraujo.github.io/eduford/" target="_blank">Projeto 04 - Eduford</a></li>
 <li><a href="https://neyaraujo.github.io/projetos/curriculo-online/" target="_blank">Projeto 05 - Curriculo Online</a></li>
 <li><a href="https://neyaraujo.github.io/estudos/page-hamburger/" target="_blank">Projeto 06 - Hamburger FooD PeeK</a></li>
+<li><a href="https://neyaraujo.github.io/projetos/curriculo-online/sandbox/mercado-usado/" target="_blank">Projeto 07 - Mercado Usado</a></li>
 
 </ul>
 <h2>Programas de Repositório</h2>
